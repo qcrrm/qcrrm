@@ -1,5 +1,5 @@
 :hushed: :hushed: :hushed:
-![](http://image.qcrrm.com/kanna.png)
+<img src="http://image.qcrrm.com/kanna.png" style="width:100px;" />
 <!--
 **qcrrm/qcrrm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
